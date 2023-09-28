@@ -1,4 +1,5 @@
 <?php get_header(); ?>
+<!-- <h1>This is specific template for Front-page </h1> -->
 
 <section class="page-wrap">
 <div class="container">
